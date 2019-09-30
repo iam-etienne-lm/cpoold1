@@ -1,2 +1,0 @@
-git add .;echo"commit";scanf $1;git push git@git.epitech.eu:/etienne.leroy@epitech.eu/$2
-
